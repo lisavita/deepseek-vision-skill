@@ -1,3 +1,4 @@
+#ltysb
 # deepseek-vision-skill
 
 DeepSeek 作为 Claude Code CLI 的模型供应商时只有纯文本能力，这个 skill 通过 Playwright 操控 DeepSeek 网页版聊天（chat.deepseek.com），让文本模型的 Claude 也能用上 DeepSeek 的识图功能。
